@@ -301,7 +301,7 @@ References
 ----------
 
 1.  I'm very thankful for the many colleagues and friends who provided a patient, helpful ear during the writing of this. In particular, Steve Evans from Tudor and Adrian Etoveric from Episteme Capital Partners were very generous with their time and feedback.
-2.  Parts of this work (primarily the idea of Sharpe indifference curves) were influenced by a wonderful presentation from Roy Niederhoffer of [R. G. Niederhoffer Capital Management](https://www.niederhoffer.com/), given during the 2016 [time Summit](timesummit.org).
+2.  Parts of this work (primarily the idea of Sharpe indifference curves) were influenced by a wonderful presentation from Roy Niederhoffer of [R. G. Niederhoffer Capital Management](https://www.niederhoffer.com/), given during the 2016 [time Summit](https://timesummit.org/).
 3.  In the process of writing this, I came across [related and interesting work](https://pdfs.semanticscholar.org/c094/f7fd32f6e5c36f121a0d246d6127587a473a.pdf) from Marcos De Prado and David Bailey of the Lawrence Berkeley National Laboratory. They are motivated by similar observations and arrive at comparable conclusions.
 
 Appendix
@@ -349,6 +349,11 @@ Lastly, you can explore these "riskier is better" situations yourself by taking 
 <img src="paper_files/figure-markdown/Partial-1.png" style="display: block; margin: auto;" />
 
 Focus on the portion of the curve where the partial is greater than zero (corresponding to prospective asset risks of less than about 30%). Within this positive region, we know that a small increase in the prospective asset risk, translates into a positive change in the resulting portfolio's $RRR$. A very cool result.
+
+Disclaimer
+----------
+
+*This is not a solicitation to buy or sell commodity futures or options on commodity futures and should not be construed as such. Futures and options trading involves substantial risk and is not for everyone. Such investments may not be appropriate for the recipient. The valuation of futures and options may fluctuate, and, as a result, clients may lose more than their original investment. Nothing contained in this message may be construed as an express or an implied promise, guarantee or implication by, of, or from Bridge Alternatives Inc that you will profit or that losses can or will be limited in any manner whatsoever. Past performance is not necessarily indicative of future results. Although care has been taken to assure the accuracy, completeness and reliability of the information contained herein, Bridge Alternatives Inc makes no warranty, express or implied, or assumes any legal liability or responsibility for the accuracy, completeness, reliability or usefulness of any information, product, service or process disclosed.*
 
 [^1]: Yes, this is a slight inaccuracy. Sharpe's namesake ratio incorporated the risk free rate, but the idea of dimensionalizing returns using risk is what's important here.
 
